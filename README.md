@@ -44,6 +44,22 @@ Phi of Earth is: 74.09527422250595
 Earth Transient Angle:  107.26622613827726
 
 
+now main thing is that files need to be taken from arun and not nas since not all files are present on nas.
+
+Should get file from arun to here.. only mkf files will be ok
+
+
+connecting to Arun: ssh -X cztipoc@192.168.11.37
+but this connection doesn't seem possible from my user. Lemme try from czti. Yes, doable from czti user.
+
+Will paste data there from arun and will copy it to my user.
+
+
+$grbts = /data2/czti/special and mkf files are present in Arun in folders of the form $grbts/TGF230616A.
+Will have to try to download all the mkf files and see.
+
+Downloaded mkf files and data products to here.
+
 
 
 
